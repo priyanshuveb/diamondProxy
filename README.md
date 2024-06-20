@@ -33,5 +33,7 @@ OwnershipFacet deployed: 0x1E53B4f3433096dCDc5A9A8f82143F2E15489658
 AFacet deployed: 0xe5e7eB41Da62cB066bAb52D7EfA1BB5b4EDE5002
 ABFacet deployed: 0x77AB9D72F19E4845a7729be97Bbf47EF099803EA
 
+## Interactive Link
+Link to interact with various functions of the contract: [Louper](https://louper.dev/diamond/0x5bb74bA054C30e05c1Eb69a015a8ab3c3b5D7A46?network=sepolia#facets)
 
 
