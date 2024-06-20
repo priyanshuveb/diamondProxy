@@ -22,6 +22,7 @@ npx hardhat run scripts/upgrade.js --network sepolia
 ```
 
 ## Deployed Addresses
+The below addresses are deployed on sepolia testnet due to some bsc testnet issue:
 
 DiamondCutFacet deployed: 0x5E39cFF786b6Ef485f0AeFc05068ab648f724449
 Diamond deployed: 0x5bb74bA054C30e05c1Eb69a015a8ab3c3b5D7A46
